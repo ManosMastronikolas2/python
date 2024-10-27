@@ -1,5 +1,5 @@
 print ('Hello, welcome to my quiz!!!')
-print ()
+	
 
 #the following print the question and the choices
 print ("What is Linux")
